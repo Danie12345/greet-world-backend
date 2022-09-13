@@ -8,11 +8,8 @@
 
 - Ruby on Rails
 - PostgreSQL
-- devise & cancancan
 - rspec/rails & capybara
 - bullet
-- turbo & stimulus
-- tailwindcss
 
 ### Getting Started
 
@@ -30,7 +27,7 @@ To get a local copy up and running follow these simple steps:
 - Type these commands into the terminal:
 
 ```
-git clone git@github.com:Danie12345/budget-app.git
+git clone git@github.com:Danie12345/greet-world-backend.git
 cd budget-app
 bundle install
 ```
@@ -85,14 +82,8 @@ rspec spec -f doc lib
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Danie12345/budget-app/issues).
+Feel free to check the [issues page](https://github.com/Danie12345/greet-world-backend/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
----
-
-## Template
-
-Full thank you to [Gregoire Vella](https://www.behance.net/gregoirevella) on [Behance](https://www.behance.net/) for the awesome [Snapscan - iOs design and branding](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding) template! :)
