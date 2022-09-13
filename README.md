@@ -1,8 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## Budget App
+## GreetWorldBackend
 
 > The backend for the greet-world webapp.
+
+> Link to [frontend app](https://github.com/Danie12345/greet-world-frontend)
 
 ## Built With
 
